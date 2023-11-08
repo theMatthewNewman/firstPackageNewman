@@ -1,11 +1,22 @@
 {
   "name": "firstpackagenewman",
   "version": "1.0.0",
-  "description": "Basic fizzBuzz",
+  "description": "Basic FizzBuzz",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theMatthewNewman/firstPackageNewman.git"
+  },
+  "keywords": [
+    "fizzbuzz"
+  ],
   "author": "Matthew Newman",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theMatthewNewman/firstPackageNewman/issues"
+  },
+  "homepage": "https://github.com/theMatthewNewman/firstPackageNewman#readme"
 }
