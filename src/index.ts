@@ -1,6 +1,6 @@
 
 
-function fizzBuzz(n) {
+export function fizzBuzz(n:number) {
     let result = [];
     for (let i = 1; i <= n; ++i) {
         if (i % 3 === 0 && i % 5 === 0) {
@@ -15,5 +15,3 @@ function fizzBuzz(n) {
     }
     return result;
 }
-
-module.exports = fizzBuzz
