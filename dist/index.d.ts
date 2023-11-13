@@ -1,1 +1,1 @@
-declare function fizzBuzz(n: number): any[];
+export declare function fizzBuzz(n: number): any[];

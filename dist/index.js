@@ -16,5 +16,6 @@ function fizzBuzz(n) {
     }
     return result;
 }
-console.log('Hello world');
+
+exports.fizzBuzz = fizzBuzz;
 //# sourceMappingURL=index.js.map
